@@ -32,7 +32,7 @@ cd miiyuh.com
 
 ## Contribution
 
-If you have suggestions or find issues, feel free to open an [issue](https://github.com/yourusername/miiyuh.com/issues) or submit a [pull request](https://github.com/yourusername/miiyuh.com/pulls).
+If you have suggestions or find issues, feel free to open an [issue](https://github.com/miiyuh/miiyuh.com/issues) or submit a [pull request](https://github.com/miiyuh/miiyuh.com/pulls).
 
 ## License
 
