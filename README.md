@@ -4,15 +4,14 @@ Welcome to **miiyuh.com**, my personal website.
 
 ## About
 
-This website serves as my online presence, providing information about me, my interests, and a showcase of my work. Feel free to explore and get to know me better!
+This website serves as my online presence, providing information about me, my interests, and a showcase of my work. Feel free to explore and get to know me better.
 
 ## Navigation
 
-- **Home:** Overview of the website.
 - **About Me:** Learn more about who I am.
-- **Gallery:** View a collection of images.
-- **Blog:** Read my latest thoughts and experiences.
-- **Genshin:** Discover content related to Genshin Impact.
+- **Gallery:** View a collection of my art.
+- **Blog:** ~~Read my latest thoughts and experiences.~~ (not yet available)
+- **Genshin:** My personal character builds in Genshin Impact.
 
 ## Technologies Used
 
