@@ -1,48 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/aboutme.html</loc>
+        <loc>/aboutme</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>/blog.html</loc>
+        <loc>/blog</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
     </url>
     <url>
-        <loc>/dna.html</loc>
+        <loc>/gallery</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
     <url>
-        <loc>/gallery.html</loc>
-    </url>
-    <url>
-        <loc>/gallery_old.html</loc>
-    </url>
-    <url>
-        <loc>/genshin.html</loc>
-    </url>
-    <url>
-        <loc>/hover-1.html</loc>
-    </url>
-    <url>
-        <loc>/images.html</loc>
+        <loc>/genshin</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>/</loc>
-    </url>
-    <url>
-        <loc>/index-old.html</loc>
-    </url>
-    <url>
-        <loc>/index1.html</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
     <url>
         <loc>/socials.html</loc>
-    </url>
-    <url>
-        <loc>/socials_old.html</loc>
-    </url>
-    <url>
-        <loc>/socials_test.html</loc>
-    </url>
-    <url>
-        <loc>/socials1.html</loc>
+        <lastmod>2024-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     </url>
 </urlset>
